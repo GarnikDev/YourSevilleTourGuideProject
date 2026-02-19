@@ -10,7 +10,7 @@ interface Message {
 }
 
 // URL donde vive tu servidor de Rasa (el backend que responde al chat)
-const RASA_URL = "https://upgraded-space-goldfish-pj4p5v4rv4pv264q7-5005.app.github.dev";
+const RASA_URL = "https://jubilant-space-meme-5gjx76jq69prf79ww-5005.app.github.dev/";
 
 export default function ChatDrawer() {
 
